@@ -6,9 +6,13 @@ Este repositório contém o projeto final do curso de Analista de Dados da EBAC,
 🔎 Etapas do projeto:
 
 • "Coleta e integração de dados públicos de orçamento e segurança"
+
 • "Limpeza e tranformação com Python e Pandas"
+
 • "Criação de métricas de eficiência, gasto per capita e proporção de gasto em segurança"
+
 • "Análise exploratória e comparativa entre estados e regiões"
+
 • "Visualização interativa no Looker Studio"
 
 📊 Ferramentas Utilizadas:
